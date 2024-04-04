@@ -1,0 +1,16 @@
+.actionButton {
+  cursor: pointer;
+  background-color: initial;
+  font-size: 0.9rem;
+  border-radius: 6px;
+}
+
+.submitButton {
+  background-color: #5886e8;
+  padding: 5px 22px;
+  transition: background-color 0.2s ease;
+
+  &:hover {
+    background-color: #3567d3;
+  }
+}
